@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Title
+description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
 notification: Please note that Singpass will be undergoing scheduled maintenance
@@ -26,8 +26,8 @@ sections:
   - infobar:
       title: National Research Foundation
       subtitle: National Research Foundation
-      description: "The National Research Foundation (NRF), set up on 1 January 2006,
-        is a department within the Prime Minister's Office. "
+      description: The National Research Foundation (NRF), set up on 1 January 2006,
+        is a department within the Prime Minister's Office.
       button: Know more
       url: /faq/
 ---
